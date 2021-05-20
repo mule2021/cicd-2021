@@ -41,10 +41,10 @@
 						<region>us-east-1</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
-						<objectStore>V2</objectStore>
+						<objectStoreV2>true</objectStoreV2>
 						<properties>
-							<anypoint.platform.client_id>28944a9da1124808b9f8d7f564a4ac65</anypoint.platform.client_id>
-							<anypoint.platform.secret>88Cbdd45A59448b590d74f2BE6a327a3</anypoint.platform.secret>
+							<anypoint.platform.client_id>1cf95dc240604a03bed3df2eb5a9a7f5</anypoint.platform.client_id>
+							<anypoint.platform.secret>c05ab8DAB52D4556a4AE03A6297F86aD</anypoint.platform.secret>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
